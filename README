@@ -1,1 +1,22 @@
-This file was created by IntelliJ IDEA 11.0 for binding GitHub repository
+This simple program generate 30 pictures with dragon-fractal images.
+Pictures will be generated on disk D: in root directory.
+Total size is about 230 mb.
+Ext -  bmp
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE X CONSORTIUM BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+nektoDev copyright (c) Moscow-2012.
+mailto: ts.slawa@gmail.com
+skypeme: noctuliuz
+
+ * Generating dragon fractal image
+ * User: Tsykin
+ * Date: 04.03.12
+ * Time: 20:01
+
